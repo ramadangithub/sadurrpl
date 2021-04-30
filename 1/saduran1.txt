@@ -1,0 +1,7 @@
+nim      :1811500035
+nama     :ramadan
+kelompok :TI6A
+
+hasil saya menyadur:
+1) ada tugas menyadur setiap pertemuan dan di simpan di githup
+2) membuat kelompok presentasi sebanyak 3 orang mahasiswa / kelompok
