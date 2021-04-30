@@ -1,0 +1,8 @@
+nama     : ramadan 1811500035
+nim      : 1811500035
+kelompok : TI6A
+
+hasil saya menyadur
+1) ada tugas menyadur setiap pertemuan dan disimpan di github
+2) buat kelompok presentasi sebanyak 3 orang mahasiswa / kelompok
+3) memahami materi yang bapak jelasakan
